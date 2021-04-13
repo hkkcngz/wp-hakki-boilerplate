@@ -1,1 +1,1 @@
-# wp-hakki-boilerplate
+# Wordpress Hakki Boilerplate.
